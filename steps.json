@@ -1,0 +1,18 @@
+{ "Создать внешний репозиторий c названием JSON": "Top Repositories - New - Repository name - Public - Add a README file - Create repository",
+  "Клонировать репозиторий JSON на локальный компьютер": "(На вебе Code - https - копировать ссылку) git clone https://github.com/OlgaVes35/JSON.git",
+  "Внутри локального JSON создать файл “new.json”": "touch new.json",
+  "Добавить файл под гит": "git add new.json (git status)",
+  "Закоммитить файл": "git commit -m "commit1"",
+  "Отправить файл на внешний GitHub репозиторий": "git push",
+  "Отредактировать содержание файла “new.json” - написать информацию о себе": "vim new.json (открывается режим ожидания редактирования, нажать "i", ввести данные. Для завершения редактирования esc, :wq)",
+  "Отправить изменения на внешний репозиторий": "(git commit -a -m "commit2") git push",
+  "Создать файл preferences.json": "touch preferences.json",
+  "В файл preferences.json добавить информацию о своих предпочтениях": "vim preferences.json  (git add preferences.json)",
+  "Создать файл skills.json добавить информацию": "touch skills.json, vim skills.json, git add skills.json",
+  "Отправить сразу 2 файла на внешний репозиторий": "git push",
+  "На веб интерфейсе создать файл bug_report.json": "На вебе add file - create new file - name your file (bug_report.json)",
+  "Сделать Commit changes (сохранить) изменения на веб интерфейсе": "commit changes",
+  "На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате": "edit this file",
+  "Сделать Commit changes (сохранить) изменения на веб интерфейсе": "commit changes",
+  "Синхронизировать внешний и локальный репозиторий JSON": "git pull"
+
